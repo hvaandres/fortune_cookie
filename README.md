@@ -1,6 +1,6 @@
 # fortune_cookie
 
-A new Flutter project.
+The Flutter Fortune App is a fun and interactive mobile application developed using Flutter. It randomly displays a fortune to the user along with falling emojis that add a visual surprise effect. Each fortune corresponds to a specific emoji theme that animates from the top to the bottom of the screen and then disappears, creating an engaging and delightful user experience.
 
 ## Getting Started
 
@@ -14,9 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## Overview
-The Flutter Fortune App is a fun and interactive mobile application developed using Flutter. It randomly displays a fortune to the user along with falling emojis that add a visual surprise effect. Each fortune corresponds to a specific emoji theme that animates from the top to the bottom of the screen and then disappears, creating an engaging and delightful user experience.
 
 ## Features
 - Random Fortune Generator: Displays a randomly selected fortune from a predefined list.
@@ -34,7 +31,8 @@ The Flutter Fortune App is a fun and interactive mobile application developed us
 4. Users can repeat the process to receive new fortunes and animations.
 
 ## Final Product
-
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-29 at 21 50 36](https://github.com/user-attachments/assets/c07e2282-24e2-44cd-bc77-cae61a6b82b5)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-29 at 21 50 28](https://github.com/user-attachments/assets/25c59716-f7d0-4166-9f80-10224eb8c0b2)
 
 
 
