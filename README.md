@@ -31,8 +31,10 @@ samples, guidance on mobile development, and a full API reference.
 4. Users can repeat the process to receive new fortunes and animations.
 
 ## Final Product
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-29 at 21 50 36](https://github.com/user-attachments/assets/c07e2282-24e2-44cd-bc77-cae61a6b82b5)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-29 at 21 50 28](https://github.com/user-attachments/assets/25c59716-f7d0-4166-9f80-10224eb8c0b2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c07e2282-24e2-44cd-bc77-cae61a6b82b5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/25c59716-f7d0-4166-9f80-10224eb8c0b2" width="45%" />
+</p>
 
 
 
